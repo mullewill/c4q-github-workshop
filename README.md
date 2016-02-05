@@ -1,7 +1,7 @@
 # Unit 0: Programming Basics
 
 
-Linus was here too
+Linus was here too but now he’s gone
 Lesson plans, activities and assignments for Unit 0 will be posted here!
 ### Lesson plans
 
